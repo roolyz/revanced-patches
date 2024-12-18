@@ -5,9 +5,9 @@ package app.revanced.extension.music.spoof;
  */
 public class SpoofClientPatch {
     private static final int CLIENT_TYPE_ID = 26;
-    private static final String CLIENT_VERSION = "6.21";
-    private static final String DEVICE_MODEL = "iPhone16,2";
-    private static final String OS_VERSION = "17.7.2.21H221";
+    private static final String CLIENT_VERSION = "7.31.51";
+    private static final String DEVICE_MODEL = "SM-S928U";
+    private static final String OS_VERSION = "14.0";
 
     public static int getClientId() {
         return CLIENT_TYPE_ID;
